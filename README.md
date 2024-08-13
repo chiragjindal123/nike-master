@@ -1,6 +1,6 @@
 <img width="1440" alt="Screenshot 2024-07-13 at 10 22 48 PM" src="https://github.com/user-attachments/assets/347f09f4-cb07-4a75-8351-10930ffe4edc">
 
-"Screenshot 2024-07-13 at 10 22 48 PM" src="https://github.com/user-attachments/assets/2e08a9cd-7dd6-4fcd-8501-978bb9b602c0">
+
 <img width="1440" alt="Screenshot 2024-07-13 at 10 23 09 PM" src="https://github.com/user-attachments/assets/22a543ae-e70b-4ee9-b6c1-ea5ec563c13b">
 
 # React + Vite + Tailwind CSS Project

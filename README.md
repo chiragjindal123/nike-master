@@ -1,7 +1,9 @@
-<img width="1440" alt="Screenshot 2024-07-13 at 10 22 48 PM" src="https://github.com/user-attachments/assets/347f09f4-cb07-4a75-8351-10930ffe4edc">
+
+![Screenshot (757)](https://github.com/user-attachments/assets/39aa45b2-5517-4368-88a8-728adf123473)
+
+![Screenshot (758)](https://github.com/user-attachments/assets/bc16b756-22b6-45b5-a7f8-67a9e7e8b3de)
 
 
-<img width="1440" alt="Screenshot 2024-07-13 at 10 23 09 PM" src="https://github.com/user-attachments/assets/22a543ae-e70b-4ee9-b6c1-ea5ec563c13b">
 
 # React + Vite + Tailwind CSS Project
 
